@@ -1,0 +1,29 @@
+{
+  "name": "joker",
+  "version": "1.0.1",
+  "description": "Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griphaugland/environment.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "EGH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griphaugland/environment/issues"
+  },
+  "homepage": "https://github.com/griphaugland/environment#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
+}
